@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Ahmed-Gamal-Portfolio/static/css/main.04a389fa.css",
+    "main.js": "/Ahmed-Gamal-Portfolio/static/js/main.b439ca95.js",
+    "static/media/AhmedGamal.png": "/Ahmed-Gamal-Portfolio/static/media/AhmedGamal.dad18601d4f9218e289b.png",
+    "static/media/Hello.gif": "/Ahmed-Gamal-Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Ahmed_Gamal_CV.pdf": "/Ahmed-Gamal-Portfolio/static/media/Ahmed_Gamal_CV.47a15363b5e6cadbbdf6.pdf",
+    "static/media/frontendabout.svg": "/Ahmed-Gamal-Portfolio/static/media/frontendabout.c41573d2218da4174de5650b11acf1ee.svg",
+    "static/media/sass-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/node-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/whatsapp.svg": "/Ahmed-Gamal-Portfolio/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/bootstrap-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/Ahmed-Gamal-Portfolio/index.html",
+    "static/media/primeng.svg": "/Ahmed-Gamal-Portfolio/static/media/primeng.cf34ad97c6628bc6b4de90f38565dd55.svg",
+    "static/media/phone-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/github.svg": "/Ahmed-Gamal-Portfolio/static/media/github.d669389c9c136a5d59d46cc53782419e.svg",
+    "static/media/email-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/angular.svg": "/Ahmed-Gamal-Portfolio/static/media/angular.e185415c50bc1885eed6c6cc9d2b009e.svg",
+    "static/media/html-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/wordpress.svg": "/Ahmed-Gamal-Portfolio/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
+    "static/media/css-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/vscode-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
+    "static/media/sass.svg": "/Ahmed-Gamal-Portfolio/static/media/sass.a64c28f1140d3a8cafb1f9d6846a3888.svg",
+    "static/media/linkedin.svg": "/Ahmed-Gamal-Portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/Ahmed-Gamal-Portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "main.04a389fa.css.map": "/Ahmed-Gamal-Portfolio/static/css/main.04a389fa.css.map",
+    "main.b439ca95.js.map": "/Ahmed-Gamal-Portfolio/static/js/main.b439ca95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a389fa.css",
+    "static/js/main.b439ca95.js"
+  ]
+}
