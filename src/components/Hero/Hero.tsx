@@ -7,7 +7,6 @@ import linkedin from "../../assets/images/linkedin.svg";
 import githubIcon from "../../assets/images/github.svg";
 import whatsapp from "../../assets/images/whatsapp.svg";
 import Hello from "../../assets/images/Hello.gif";
-
 export function Hero() {
   return (
     <Container id="home">

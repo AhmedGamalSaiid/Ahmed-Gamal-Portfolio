@@ -111,8 +111,14 @@ export const GlobalStyle = createGlobalStyle`
   .logo{
     font-size: 3rem;
     color: #FFFF;
-    // &::first-letter{
-    //   color: var(--green);
-    // }
+    div{
+    
+                background: "#212121",
+                padding: "2rem",
+                border-radius: "50%",
+                display: "flex",
+                align-items: "center",
+                justify-content: "center",
+    }
   }
-`
+`;
