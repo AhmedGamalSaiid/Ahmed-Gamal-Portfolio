@@ -38,6 +38,26 @@ export const Container = styled.header`
       }
     }
 
+    .lang-toggle{
+      background: transparent;
+      color: #FFFF;
+      border: 1px solid var(--green);
+      border-radius: 2rem;
+      padding: 0.5rem 1.6rem;
+      font-size: 1.5rem;
+      font-weight: 500;
+      &:hover{
+        background-color: var(--green);
+        filter: none;
+      }
+    }
+
+  }
+
+  html[dir="rtl"] & nav a,
+  html[dir="rtl"] & nav .lang-toggle{
+    text-transform: none;
+    font-family: 'Cairo', 'Red Hat Display', sans-serif;
   }
 
   .menu-container{

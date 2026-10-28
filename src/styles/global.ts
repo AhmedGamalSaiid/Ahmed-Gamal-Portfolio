@@ -85,6 +85,16 @@ export const GlobalStyle = createGlobalStyle`
     font-weight: 400;
   }
 
+  /* Arabic / RTL */
+  html[dir="rtl"]{
+    body, input, textarea, button, h1, h2, h3, h4, p, a{
+      font-family: 'Cairo', 'Red Hat Display', sans-serif;
+    }
+    body{
+      line-height: 1.7;
+    }
+  }
+
   a{
     text-decoration: none;
   }

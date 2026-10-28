@@ -33,7 +33,7 @@ export const Container = styled.section`
     align-items:center;
     gap: 1rem;
     padding-top:5rem;
-    padding-left:1rem;
+    padding-inline-start:1rem;
 
     img,span{
       font-size: 3rem;
