@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "Ahmed Gamal | Portfolio"
+  },
+  "language": {
+    "switchTo": "عربي",
+    "switchToLabel": "Switch to Arabic"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About me",
+    "project": "Project",
+    "contact": "Contact",
+    "resume": "Resume",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "logoAlt": "Ahmed Gamal logo"
+  },
+  "hero": {
+    "hello": "Hello",
+    "iam": ", I'm",
+    "name": "Ahmed Gamal",
+    "title": "Senior Frontend Developer",
+    "experience": "+5 Years of Experience",
+    "contact": "Contact",
+    "imageAlt": "Ahmed Gamal illustration"
+  },
+  "about": {
+    "title": "About me",
+    "p1": "I’m a Senior Front-End Developer with 5+ years of experience, specializing in creating sleek, high-performance web applications with JavaScript, React, and Angular.",
+    "p2": "I’m passionate about delivering seamless user experiences and thrive on leading teams, solving complex challenges, and staying ahead of tech trends.",
+    "p3": "With a strong focus on collaboration, I ensure every project not only meets but exceeds client expectations.",
+    "skillsTitle": "Here are my main skills:",
+    "imageAlt": "Ahmed Gamal"
+  },
+  "skills": {
+    "header": "What I Do?",
+    "items": {
+      "frontend": {
+        "title": "Front End Development",
+        "points": [
+          "⚡ 5+ years in responsive web and mobile app development.",
+          "⚡ Expert in Angular, React, and JavaScript frameworks.",
+          "⚡ Focused on performance optimization and scalability.",
+          "⚡ Deliver tailored solutions for e-commerce and corporate."
+        ]
+      },
+      "teaching": {
+        "title": "Teaching",
+        "points": [
+          "⚡ Experienced instructor in front-end and freelancing skills.",
+          "⚡ Taught with ITI, NTI, and Udacity institutions.",
+          "⚡ Focus on practical, real-world problem-solving skills.",
+          "⚡ Guides learners from beginner to advanced levels."
+        ]
+      },
+      "consultation": {
+        "title": "Consultation",
+        "points": [
+          "⚡ Provides technical consulting for curriculum optimization.",
+          "⚡ Expertise in freelancing strategies and best practices.",
+          "⚡ Worked with government and global organizations.",
+          "⚡ Delivers insights to improve success for companies."
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "line1": "Ready to get started on your project?",
+    "line2": "Contact me now for a Free consultation.",
+    "emailAlt": "Email",
+    "phoneAlt": "Phone No"
+  },
+  "form": {
+    "title": "Get in touch using the form",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Send a message to get started.",
+    "emailPrefix": "Email",
+    "messagePrefix": "Message",
+    "submit": "Get in Touch",
+    "successToast": "Email successfully sent!",
+    "thanks": "Thanks for getting in touch!",
+    "backToTop": "Back to the top"
+  },
+  "footer": {
+    "madeWith": "This Website was made with",
+    "logoAlt": "Ahmed Gamal logo"
+  }
+}

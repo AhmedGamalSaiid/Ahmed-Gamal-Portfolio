@@ -14,40 +14,31 @@ import vueIcon from "../../assets/images/vue-icon.svg";
 import boostrapIcon from "../../assets/images/bootstrap-icon.svg";
 import primeNgIcon from "../../assets/images/primeng.svg";
 import ScrollAnimation from "react-animate-on-scroll";
+import { useTranslation } from "react-i18next";
 
 export function About() {
+  const { t } = useTranslation();
   return (
     <Container id="about">
       <div className="about-text">
         <ScrollAnimation animateIn="fadeInLeft">
-          <h2>About me</h2>
+          <h2>{t("about.title")}</h2>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
-          <p>
-            I’m a Senior Front-End Developer with 5+ years of experience,
-            specializing in creating sleek, high-performance web applications
-            with JavaScript, React, and Angular.
-          </p>
+          <p>{t("about.p1")}</p>
         </ScrollAnimation>
         <ScrollAnimation
           animateIn="fadeInLeft"
           delay={0.2 * 1000}
           style={{ marginTop: "2rem", marginBottom: "2rem" }}
         >
-          <p>
-            I’m passionate about delivering seamless user experiences and thrive
-            on leading teams, solving complex challenges, and staying ahead of
-            tech trends.
-          </p>
+          <p>{t("about.p2")}</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
-          <p>
-            With a strong focus on collaboration, I ensure every project not
-            only meets but exceeds client expectations.
-          </p>
+          <p>{t("about.p3")}</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
-          <h3>Here are my main skills:</h3>
+          <h3>{t("about.skillsTitle")}</h3>
         </ScrollAnimation>
         <div className="hard-skills">
           <div className="hability">
@@ -104,7 +95,7 @@ export function About() {
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.2 * 1000}>
-          <img src={Illustration} alt="Ahmed Gamal" />
+          <img src={Illustration} alt={t("about.imageAlt")} />
         </ScrollAnimation>
       </div>
     </Container>

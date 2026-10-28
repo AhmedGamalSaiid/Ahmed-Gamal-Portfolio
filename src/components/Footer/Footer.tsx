@@ -6,9 +6,11 @@ import whatsapp from "../../assets/images/whatsapp.svg";
 import telegram from "../../assets/images/telegram.svg";
 import instagramIcon from "../../assets/images/instagram.svg";
 import AGLOGO from "../../assets/images/AhmedGamal.svg";
+import { useTranslation } from "react-i18next";
 // import discordIcon from '../../assets/images/discord.png'
 
 export function Footer() {
+  const { t } = useTranslation();
   return (
     <Container className="footer">
       <a
@@ -16,12 +18,12 @@ export function Footer() {
         className="logo"
       >
         <span>
-          <img src={AGLOGO} alt="Hello" width="80px" style={{borderRadius:'20px'}} />
+          <img src={AGLOGO} alt={t("footer.logoAlt")} width="80px" style={{borderRadius:'20px'}} />
         </span>
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
+          {t("footer.madeWith")} <img src={reactIcon} alt="React" />
           {/* <span>❤️</span> */}
         </p>
       </div>
